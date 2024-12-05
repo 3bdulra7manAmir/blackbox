@@ -1,0 +1,84 @@
+name: black_box
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.4
+  bloc: ^8.1.3
+  tbib_splash_screen: ^1.0.0
+  window_manager: ^0.4.0
+  desktop_context_menu: ^0.1.1
+  path: ^1.9.0
+  isar: ^3.1.0+1
+  isar_flutter_libs: ^3.1.0+1
+  path_provider: ^2.0.15
+  excel: ^2.0.0
+  pdf: ^3.6.0
+  docx_template: ^0.4.0
+  intl: ^0.19.0
+  context_menus: ^2.0.0+1
+  printing: ^5.9.3
+  ffi: ^2.0.0
+  logger: ^2.4.0
+  file_picker: ^8.1.2
+  shared_preferences: ^2.0.11
+  flutter_barcode_scanner: ^2.0.0
+  barcode_widget: ^2.0.4
+  barcode: ^2.1.3
+  image: ^3.0.1
+  esc_pos_printer: ^4.1.0
+  esc_pos_utils: ^1.0.1
+  usb_serial: ^0.3.0 # or any suitable USB package
+  flutter_svg: ^1.1.6
+  flutter_localization: ^0.2.0
+  ##win32: ^2.2.0
+  flutter_localizations:
+    sdk: flutter
+  flutter_clean_architecture: ^6.0.1
+
+  win32: any
+  #usb_serial: ^0.5.2
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  isar_generator: ^3.1.0+1
+  build_runner: ^2.2.0
+  analyzer: ^5.13.0
+
+flutter:
+  uses-material-design: true
+  generate: true
+  assets:
+    - assets/images/sc_assault.jpg
+    - assets/images/cod.jpg
+    - assets/images/background.jpg
+    - assets/images/vault.png
+    - assets/images/tmc.png
+    - assets/images/lib1-nobg-notext.png
+    - assets/images/lib1-nobg.png
+    - assets/images/lib2.png
+    - assets/images/lib3-nobg.png
+    - assets/images/lib3.png
+    - assets/images/lib4.png
+    - assets/images/corru_discov1.png
+    - assets/images/corru_discov2.png
+    - assets/images/corru_discov3.png
+    - assets/images/corru_discov4.png
+    - assets/images/Corr_dis.png
+    - assets/images/Corr_dis2.png
+    - assets/images/Soldier.png
+    - assets/images/Soldier2.png
+    - assets/images/NewLogo(1).png
+    - assets/images/NewLogo.png
+    - assets/images/NewLogoOriginal.jpeg
+    - assets/images/background2.jpg
+    - assets/images/pixelcut-export.png
+    - assets/template.docx
+    - assets/fonts/NotoSans-Regular.ttf
+    - assets/fonts/NotoSansArabic-Regular.ttf

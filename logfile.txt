@@ -1,0 +1,28 @@
+AddItems Called with,,, id: 147 	 لوحة مفاتيح 	 Microsoft 	 ابيض 	 fd4f-43fs-f43r-df24 	 المخزن 	 null 	 2024-09-05 – 11-23-49
+AddItems Called with,,, id: 148 	 لوحة مفاتيح 	 Microsoft 	 ابيض 	 dfgr-dsfs-df34-r3fd 	 اكتشاف الاعطال 	 null 	 2024-09-05 – 11-24-09
+AddItems Called with,,, id: 149 	 ماوس 	 Microsoft 	 أسود 	 fdg4-3cv3-4cxd-23x3 	 المخزن 	 TMC 	 2024-09-08 – 12-14-55
+AddItems Called with,,, id: 150 	 ماوس 	 Microsoft 	 أسود 	 dsf3-r324-d23d-23as 	 المخزن 	 TMC 	 2024-09-10 – 12-13-57
+AddItems Called with,,, id: 151 	 كابل طاقة 	 DELL 	 ابيض 	 try5-67y5-6ygd-56gd 	 المخزن 	 null 	 2024-09-10 – 14-31-24
+AddItems Called with,,, id: 152 	 ماوس 	 Microsoft 	 أسود 	 df34-54tg-5463-f43f 	 المخزن 	 null 	 2024-09-23 – 12-18-29
+AddItems Called with,,, id: 153 	 ماوس 	 Microsoft 	 أسود 	 hg45-r345-56y5-6ghj 	 المخزن 	 null 	 2024-09-23 – 12-24-17
+AddItems Called with,,, id: 154 	 لوحة مفاتيح 	 Microsoft 	 أسود 	 fcbg-try4-5ty5-4g45 	 المخزن 	 null 	 2024-09-23 – 12-30-41
+AddItems Called with,,, id: 155 	 ماوس 	 Microsoft 	 أسود 	 dfs4-wr23-4rse-d32r 	 اكتشاف الاعطال 	 null 	 2024-09-23 – 12-35-11
+AddItems Called with,,, id: 156 	 ماوس 	 XO 	 أسود 	 mnju-ioyu-y89y 	 اكتشاف الاعطال 	 null 	 2024-09-23 – 12-40-47
+AddItems Called with,,, id: 54439641 	 ماوس 	 Microsoft 	 أسود 	 dddd-dddd-dddd-dddd 	 المخزن 	 null 	 2024-09-23 – 12-43-00
+AddItems Called with,,, id: 1 	 ماوس 	 Microsoft 	 أسود 	 2www-w2ww-ww2w 	 المخزن 	 null 	 2024-09-23 – 12-46-21
+AddItems Called with,,, id: 2 	 ماوس 	 Microsoft 	 أسود 	 dddd-dddd-dd22-222 	 المخزن 	 null 	 2024-09-23 – 13-10-45
+AddItems Called with,,, id: 3 	 طابعة 	 LaserJet-M712 	 ابيض 	 H17d-m257-hbc3-03dg 	 المخزن 	 null 	 2024-10-21 – 11-57-31
+AddItems Called with,,, id: 4 	 لوحة مفاتيح 	 DELL 	 أسود 	 1ds5-8sjl-56as-hgd4 	 اكتشاف الاعطال 	 TMC 	 2024-10-21 – 12-59-47
+AddItems Called with,,, id: 9 	 الطابعة 	 LaserJet712M 	 أسود 	 Lsj4-85sd-f568-yhm5 	 المخزن 	 TMC 	 2024-10-21 – 13-02-17
+AddItems Called with,,, id: 10 	 كابل طاقة 	 Hp 	 أسود 	 Hh15-000h-sd54-989H 	 المخزن 	 null 	 2024-10-21 – 13-09-01
+AddItems Called with,,, id: 11 	 لوحة مفاتيح 	 Microsoft 	 أسود 	 dd12-054d 	 المخزن 	 null 	 2024-10-22 – 18-16-12
+AddItems Called with,,, id: 12 	 لوحة مفاتيح 	 Microsoft 	 أسود 	 d120-545d-sdf1 	 المخزن 	 null 	 2024-10-22 – 18-16-18
+<<<<<<< HEAD
+AddItems Called with,,, id: 13 	 hh 	  	 أسود 	 h 	 المخزن 	 null 	 2024-10-26 – 12-17-40
+AddItems Called with,,, id: 14 	 hh 	  	 أسود 	  	 المخزن 	 null 	 2024-10-26 – 12-21-24
+AddItems Called with,,, id: 15 	 ماوس 	 Microsoft 	 أسود 	  	 المخزن 	 null 	 2024-10-26 – 12-22-32
+AddItems Called with,,, id: 16 	 ماوس 	 Microsoft 	 أسود 	  	 المخزن 	 رئيس فرع الحاسب الالي 	 2024-10-26 – 12-24-49
+=======
+>>>>>>> 2a30dc90202c067eda2ce24ecdc82c884e4aa087
+NewAddedItem Called with,,, id: 1 	 Xprinter 	 K200L-Thermal 	 null 	 In Use 	 null 	 رئيس فرع الحاسب الالي 	 2024-11-27 – 08-06-17
+NewAddedItem Called with,,, id: 2 	 شاشة 	 DELL 	 null 	 المخزن 	 null 	 رئيس فرع الحاسب الالي 	 2024-11-28 – 10-11-10

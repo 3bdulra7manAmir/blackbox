@@ -1,0 +1,16 @@
+// Highlight + لون الكمية
+// Add Into the Items List
+// Log into .txt file --
+// Desgin Enhancements
+// Login Security
+// Only Appears for Admins the Adding Users PAge
+// Logo Add --
+// Dark Mode
+// Drawer Background change
+// Drawer Logo Centerlized --
+// barcode Generator while inserting Data
+// Fix the rest of the db funs delete \ update \ for both users and items
+// APP Icon Change And Name --
+// Add Serail Number search for item in the home page.
+// Add صف ظابط in Roles..
+//below.zero_1
